@@ -19,15 +19,12 @@ The dataset used in this project contains two columns:
 
 ---
 
-## Dependencies 
-- Dependencies
+## Technologies used : 
 - pandas
-- numpy
 - seaborn
 - matplotlib
 - nltk
 - scikit-learn
-- tensorflow
 - wordcloud
 
 ---
